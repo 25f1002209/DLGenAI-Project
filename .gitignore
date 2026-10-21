@@ -1,16 +1,24 @@
-
 __pycache__/
 *.py[cod]
+.ipynb_checkpoints/
 .venv/
 venv/
 .env
-.ipynb_checkpoints/
-wandb/
+
+# Dataset and large generated files
 data/
 datasets/
-*.pth
+*.parquet
 *.pt
+*.pth
 *.ckpt
-*.h5
-*.keras
+
+# Experiment tracking
+wandb/
+
+# Kaggle working files
 /kaggle/working/
+
+# OS files
+.DS_Store
+Thumbs.db
