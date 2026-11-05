@@ -3,7 +3,7 @@
 ## Project Information
 - **Course:** BSDA2001P — Introduction to DL and GenAI Project
 - **Student Name:** Manandip Das
-- **Student ID:** [Your Roll Number]
+- **Student ID:** 25f1002209
 - **Competition:** SurfaceGuard AI — Industrial Surface Anomaly Segmentation
 
 ## Overview
